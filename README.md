@@ -22,7 +22,7 @@ O formato da apresentação deve ser em PDF e você deve usar os materiais da id
 - Que tipo de informação adicional precisaria para tomar suas decisões?
 - Qual seria sua abordagem para coletar essas informações?
 - Que referências, ferramentas e metodologias usaria para apoiar seu trabalho?
-- Como você comunicaria sua solução para seu Gerente de Produto, UX Research e os desenvolvedores, e o que você entregaria para que os objetivos possam ser desenvolvidos e testados?
+- Como você comunicaria sua solução para seu Gerente de Produto, UX Researcher e os desenvolvedores, e o que você entregaria para que os objetivos possam ser desenvolvidos e testados?
 - Como você mensuraria o sucesso da sua solução, uma vez entregue?
 
 <b>2. Proposta Visual (design responsivo)</b>
